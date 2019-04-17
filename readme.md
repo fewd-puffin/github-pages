@@ -4,7 +4,7 @@
 
 **Welcome to your first project deployment guide!**
 
-For project 1 you will be deploying your game using GitHub Pages. Since GitHub is awesome, this is a simple process that takes 5 steps.
+For this project you will be deploying using GitHub Pages. Since GitHub is awesome, this is a simple process that takes 5 steps.
 
 ---
 
